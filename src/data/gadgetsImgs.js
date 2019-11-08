@@ -4,6 +4,7 @@ const gadgetsImgs = [
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103946/sanhsanhintl/gadgets/gadgets92_etgajf.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103956/sanhsanhintl/gadgets/gadgets9_p6egvy.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103956/sanhsanhintl/gadgets/gadgets7_w1o2jp.png',
+	'https://res.cloudinary.com/dnguyen/image/upload/v1573248763/sanhsanhintl/gadgets/kitchen_tools_dgctjb.jpg',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103965/sanhsanhintl/gadgets/mortar_bezjwc.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103978/sanhsanhintl/gadgets/gadgets5_i7vpxd.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103978/sanhsanhintl/gadgets/gadgets6_opxiwk.png',

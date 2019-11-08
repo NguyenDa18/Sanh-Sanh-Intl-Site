@@ -16,6 +16,9 @@ const AppBar = () => {
 				<Collapse isOpen={!collapsed} navbar>
 					<Nav navbar>
 						<NavItem>
+							<NavLink href="/new">New Items</NavLink>
+						</NavItem>
+						<NavItem>
 							<NavLink href="/pots">Pots/Pans/Woks</NavLink>
 						</NavItem>
 						<NavItem>

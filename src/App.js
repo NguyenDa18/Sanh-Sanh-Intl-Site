@@ -7,6 +7,7 @@ import AppBar from './components/AppBar';
 
 import FrontPage from './pages/FrontPage';
 
+import NewItemsPage from './pages/NewItemsPage';
 import BowlsPage from './pages/BowlsPage';
 import CeramicPage from './pages/CeramicPage';
 import CollectionsPage from './pages/CollectionsPage';
@@ -23,6 +24,7 @@ function App() {
 			<Router>
 				<Switch>
 					<Route exact path="/" component={FrontPage} />
+					<Route exact path="/new" component={NewItemsPage} />
 					<Route exact path="/bowls" component={BowlsPage} />
 					<Route exact path="/ceramics" component={CeramicPage} />
 					<Route exact path="/collections" component={CollectionsPage} />

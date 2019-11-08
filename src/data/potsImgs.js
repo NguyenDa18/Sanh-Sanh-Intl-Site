@@ -26,6 +26,8 @@ const potsImgs = [
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103224/sanhsanhintl/pots/21.pots_mvkmdg.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103228/sanhsanhintl/pots/25.pots_cnjzle.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103228/sanhsanhintl/pots/18.fry_nxnycl.png',
+	'https://res.cloudinary.com/dnguyen/image/upload/v1573248991/sanhsanhintl/pots/laser_wok_oa4bzv.jpg',
+	'https://res.cloudinary.com/dnguyen/image/upload/v1573248210/sanhsanhintl/pots/aluminum_pots_n1xgyr.jpg',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103232/sanhsanhintl/pots/22.pots_czqdei.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103236/sanhsanhintl/pots/20.pots_bfj2c4.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573103237/sanhsanhintl/pots/19.pots_vbs5qk.png',
