@@ -28,6 +28,7 @@ const householdImgs = [
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573112216/sanhsanhintl/house/clean_pyxm4i.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573112212/sanhsanhintl/house/toaster_ahcafu.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573112211/sanhsanhintl/house/cups_uznvi4.png',
+	'https://res.cloudinary.com/dnguyen/image/upload/v1573440981/sanhsanhintl/house/rice_dispenser_30lbs_qc4knd.jpg',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573112205/sanhsanhintl/house/dispenser_tgmjsq.png',
 	'https://res.cloudinary.com/dnguyen/image/upload/v1573112192/sanhsanhintl/house/riceCooker_mdqsfr.png'
 ];
